@@ -104,7 +104,10 @@ func play_falling_sound() -> void:
 		falling_player.play()
 
 func level_complete() -> void:
-	_end_run("LEVEL COMPLETE!")
+	if score >= total_coins:
+		_end_run("PERFECT RUN!\nALL COINS COLLECTED!")
+	else:
+		_end_run("LEVEL COMPLETE!")
 
 func _end_run(title: String) -> void:
 	if ended:
