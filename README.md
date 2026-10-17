@@ -29,6 +29,3 @@ A 2D pixel-art platform game where you drive a car through a tile-based level, c
 3. Press **F6** to run the main scene, or **F5** to run the project.
 
 
-## License
-
-[Add the license for your game and any third-party assets.]
