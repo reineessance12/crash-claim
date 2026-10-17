@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://cd1flsqrnfw57"]
 
 [ext_resource type="Script" uid="uid://b3b08lh4hybm3" path="res://coin.gd" id="1_0t63x"]
-[ext_resource type="Texture2D" uid="uid://d2nodhbcwkqep" path="res://sprites/coin.png" id="1_d5gmh"]
+[ext_resource type="Texture2D" path="res://sprites/coin.png" id="1_d5gmh"]
 [ext_resource type="AudioStream" uid="uid://c6n8nnmjvs4gc" path="res://sounds/koiroylers-get-coin-351945.mp3" id="3_v7riw"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0t63x"]

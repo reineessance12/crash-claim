@@ -1,13 +1,13 @@
 [gd_scene format=3 uid="uid://mmdyogo1f5op"]
 
 [ext_resource type="Script" uid="uid://bfvmjmxivnf30" path="res://main.gd" id="1_ig7tw"]
-[ext_resource type="Texture2D" uid="uid://cprpf08wkmx00" path="res://Retro Red Car Sprite Sheet.png" id="2_h2yge"]
+[ext_resource type="Texture2D" path="res://sprites/Retro Red Car Sprite Sheet.png" id="2_h2yge"]
 [ext_resource type="Script" uid="uid://ct6rjnaesgliv" path="res://car.gd" id="3_1bvp3"]
 [ext_resource type="PackedScene" uid="uid://ugo5jlc61tjr" path="res://platform.tscn" id="4_lquwl"]
 [ext_resource type="PackedScene" uid="uid://cd1flsqrnfw57" path="res://coin.tscn" id="6_7mycd"]
 [ext_resource type="PackedScene" uid="uid://ce6nws3gxtkh2" path="res://killzone.tscn" id="7_272bh"]
 [ext_resource type="PackedScene" uid="uid://d2ssq3px4n28" path="res://platfrom_2.tscn" id="8_5vw27"]
-[ext_resource type="Texture2D" uid="uid://cbmkoecbj3vpd" path="res://world_tileset.png" id="9_4c57u"]
+[ext_resource type="Texture2D" path="res://sprites/world_tileset.png" id="9_4c57u"]
 [ext_resource type="AudioStream" uid="uid://p2w5vs5nkhlm" path="res://sounds/qwertymeeto-the-island-clearing-216263.mp3" id="9_kek77"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_865uq"]

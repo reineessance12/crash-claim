@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://8hrljdfg2mgt"]
+
+[ext_resource type="Script" uid="uid://ctnm8ag24q3j7" path="res://area_2d.gd" id="1_68h2w"]
+[ext_resource type="Texture2D" path="res://sprites/Pixel Art Falling Objects Sprite Sheet.png" id="2_wecdg"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_7vufv"]
+radius = 73.756355
+
+[node name="Rock" type="Area2D" unique_id=1320534236]
+scale = Vector2(0.4, 0.4)
+script = ExtResource("1_68h2w")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1779093722]
+texture = ExtResource("2_wecdg")
+region_enabled = true
+region_rect = Rect2(57, 87, 184, 163)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=342461769]
+shape = SubResource("CircleShape2D_7vufv")

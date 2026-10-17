@@ -1,7 +1,7 @@
-[gd_scene format=3 uid="uid://8hrljdfg2mgt"]
+[gd_scene format=3 uid="uid://ciibkbu0btexu"]
 
 [ext_resource type="Script" uid="uid://ctnm8ag24q3j7" path="res://area_2d.gd" id="1_68h2w"]
-[ext_resource type="Texture2D" uid="uid://i25m6r0ijvd0" path="res://Pixel Art Falling Objects Sprite Sheet.png" id="2_wecdg"]
+[ext_resource type="Texture2D" path="res://sprites/Pixel Art Falling Objects Sprite Sheet.png" id="2_wecdg"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_7vufv"]
 radius = 73.756355

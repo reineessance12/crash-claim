@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://du14rbmkwykth"
-path="res://.godot/imported/Pixel Art Falling Objects Sprite Sheet.png-7632e43a742d9fd53b063176d147db39.ctex"
+uid="uid://dwaofa3ykemxg"
+path="res://.godot/imported/Retro Red Car Sprite Sheet.png-90b1b780616f4f6a0bbbde7e963cb0ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pixel Art Falling Objects Sprite Sheet.png"
-dest_files=["res://.godot/imported/Pixel Art Falling Objects Sprite Sheet.png-7632e43a742d9fd53b063176d147db39.ctex"]
+source_file="res://sprites/Retro Red Car Sprite Sheet.png"
+dest_files=["res://.godot/imported/Retro Red Car Sprite Sheet.png-90b1b780616f4f6a0bbbde7e963cb0ab.ctex"]
 
 [params]
 

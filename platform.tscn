@@ -1,12 +1,13 @@
 [gd_scene format=3 uid="uid://b3yjddmkxxgsa"]
 
-[ext_resource type="Texture2D" uid="uid://gg2mndd5egye" path="res://platforms.png" id="1_mi635"]
+[ext_resource type="Texture2D" path="res://sprites/platforms.png" id="1_mi635"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_02mqq"]
 size = Vector2(48, 8)
 
 [node name="platform" type="AnimatableBody2D" unique_id=575506977]
 scale = Vector2(2, 2)
+sync_to_physics = true
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1338791312]
 position = Vector2(8.25, 0)

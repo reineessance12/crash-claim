@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dtdccbpctkqy7"]
 
-[ext_resource type="AudioStream" uid="uid://b7mi68cwcapok" path="res://qwertymeeto-the-island-clearing-216263.mp3" id="1_05ggv"]
+[ext_resource type="AudioStream" uid="uid://b7mi68cwcapok" path="res://sounds/qwertymeeto-the-island-clearing-216263.mp3" id="1_05ggv"]
 
 [node name="music" type="AudioStreamPlayer2D" unique_id=836196880]
 stream = ExtResource("1_05ggv")
